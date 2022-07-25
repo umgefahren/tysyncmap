@@ -1,3 +1,5 @@
+// [![Go Reference](https://pkg.go.dev/badge/github.com/umgefahren/tysyncmap.svg)](https://pkg.go.dev/github.com/umgefahren/tysyncmap)
+// Typed version of sync.Map using Go 1.18 generics.
 package tysyncmap
 
 import "sync"
