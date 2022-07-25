@@ -2,7 +2,7 @@ package tysyncmap_test
 
 import (
 	"fmt"
-	"tysyncmap"
+	"github.com/umgefahren/tysyncmap"
 )
 
 func Example() {
